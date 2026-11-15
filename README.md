@@ -1,3 +1,29 @@
+# appsmith
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+构建管理后台、内部工具与仪表盘的平台，可集成 25+ 数据库与任意 API。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
 <a href="https://www.appsmith.com?utm_source=github&utm_medium=organic&utm_campaign=readme">
   <img src="static/appsmith_logo_white.png" alt="Appsmith Logo" width="350">
